@@ -9,7 +9,7 @@ def window():
     win.setWindowTitle("Scrabble Helper")
     
     label = QtWidgets.QLabel(win)
-    label.setText("something")
+    label.setText("something should go here")
     label.move(50,50)
     
     win.show()
